@@ -19,6 +19,7 @@ II、Matters needing attention
 </br>2. Ensure that the phone is connected to the Internet properly
 </br>3. If an exception occurs, restart the app and run the command again
 </br>4. If the interface data is abnormal, kill the app and restart it
+</br>5. Use different Android devices for testing
 
 III、Helper
  </br>If you have any questions about the procedure, please contact the administrator
@@ -37,6 +38,7 @@ III、Helper
 切换wifi和移动网络进行测试，用来验证不同网络的下载速度
 </br>4.多次测试
 反复流程2，3进行多次测试
+</br>5.使用不同的安卓设备测试
 
 
 二、注意事项
