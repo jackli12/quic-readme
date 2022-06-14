@@ -1,7 +1,6 @@
 # quic-readme
 
-Quic readme
-English document
+**English document**
 
 I、 Test process
 1. Obtain the configuration
@@ -27,7 +26,7 @@ III、Helper
 
 
 
-中文文档
+**中文文档**
 
 一、测试流程
 </br>1.配置获取
