@@ -12,7 +12,7 @@ If the configuration fails to be obtained all the time, please check the network
 3.Switching network Environment
 Switch between wifi and mobile networks for the test to verify the download speed of different networks 
 4.multiple test
-</br>Repeat flow 2 and 3 for multiple tests
+</br>Repeat flow 2 and 3 for multiple tests,Test more than 10 times
 
 II、Matters needing attention
 </br>1. Make sure your phone has Google services. Quic is not supported without Google services 
